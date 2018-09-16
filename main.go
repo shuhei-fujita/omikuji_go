@@ -20,6 +20,8 @@ func main() {
                 fmt.Println("中吉です")
             case 5:
                 fmt.Println("大吉です")
+            case 6:
+                fmt.Printf("あなたが好き")
         }
     }
 }
